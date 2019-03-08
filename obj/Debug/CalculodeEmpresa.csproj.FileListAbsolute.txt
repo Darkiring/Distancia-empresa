@@ -1,0 +1,6 @@
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\bin\Debug\CalculodeEmpresa.exe.config
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\bin\Debug\CalculodeEmpresa.exe
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\bin\Debug\CalculodeEmpresa.pdb
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\obj\Debug\CalculodeEmpresa.csprojResolveAssemblyReference.cache
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\obj\Debug\CalculodeEmpresa.exe
+c:\users\abrah\documents\visual studio 2015\Projects\CalculodeEmpresa\obj\Debug\CalculodeEmpresa.pdb
